@@ -1,0 +1,14 @@
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/bin/Debug/net8.0/revisaoProva
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/bin/Debug/net8.0/revisaoProva.deps.json
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/bin/Debug/net8.0/revisaoProva.runtimeconfig.json
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/bin/Debug/net8.0/revisaoProva.dll
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/bin/Debug/net8.0/revisaoProva.pdb
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/obj/Debug/net8.0/revisaoProva.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/obj/Debug/net8.0/revisaoProva.AssemblyInfoInputs.cache
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/obj/Debug/net8.0/revisaoProva.AssemblyInfo.cs
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/obj/Debug/net8.0/revisaoProva.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/obj/Debug/net8.0/revisaoProva.dll
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/obj/Debug/net8.0/refint/revisaoProva.dll
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/obj/Debug/net8.0/revisaoProva.pdb
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/obj/Debug/net8.0/revisaoProva.genruntimeconfig.cache
+/home/aluno/Documentos/Matheus Z/analise oo/revisaoProva/obj/Debug/net8.0/ref/revisaoProva.dll
